@@ -59,7 +59,7 @@ khepra-backend/
 ### Setup
 1. Clone the repo:
 ```bash
-git clone https://github.com/quinise/khepra-backend.git
+git clone https://github.com/quinise/ScheduleHub-backend.git
 cd khepra-backend
 ```
 
@@ -88,7 +88,7 @@ mvn test
 
 ## 🔗 Related Repositories
 
-- **Frontend:** [khepraOnePage](https://github.com/quinise/khepraOnePage) – Angular 19 client
+- **Frontend:** [ScheduleHub-frontend](https://github.com/quinise/ScheduleHub-frontend) – Angular 19 client
 
 ---
 
