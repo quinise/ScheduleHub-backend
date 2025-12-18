@@ -16,7 +16,7 @@ Backend service for the **Schedule Hub App**, providing secure APIs for managing
 
 ---
 
-## 🚀 Features
+## Features
 - **User & Admin Management** – Role-based access to protect sensitive data and features.
 - **Appointment & Event Scheduling** – Create, update, and delete with validation.
 - **Conflict Detection** – Smart buffer rules for virtual and in-person events.
@@ -25,7 +25,7 @@ Backend service for the **Schedule Hub App**, providing secure APIs for managing
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend:** Spring Boot 3.x, Java 17  
 - **Database:** PostgreSQL 15  
 - **Build Tool:** Maven  
@@ -34,7 +34,7 @@ Backend service for the **Schedule Hub App**, providing secure APIs for managing
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 khepra-backend/
 ├── src/main/java/com/khepra/...
@@ -50,7 +50,7 @@ khepra-backend/
 
 ---
 
-## ⚡ Getting Started
+## Getting Started
 ### Prerequisites
 - Java 17+
 - Maven 3.8+
@@ -77,7 +77,7 @@ mvn spring-boot:run
 
 ---
 
-## ✅ Testing
+## Testing
 
 Run the unit tests with:
 ```bash
@@ -86,12 +86,12 @@ mvn test
 
 ---
 
-## 🔗 Related Repositories
+## Related Repositories
 
 - **Frontend:** [ScheduleHub-frontend](https://github.com/quinise/ScheduleHub-frontend) – Angular 19 client
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
